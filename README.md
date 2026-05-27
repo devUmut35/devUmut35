@@ -58,6 +58,31 @@
 
 ---
 
+## Siber Güvenlik Portfolyom
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>
+        <a href="https://github.com/devUmut35/hackviser">Hackviser</a>
+      </h3>
+      <p>
+        Hackviser üzerinde tamamladığım warmup, senaryo ve lab çalışmalarını listelediğim kişisel siber güvenlik portfolyosu.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Warmups-21-green?style=for-the-badge" alt="Warmups" />
+        <img src="https://img.shields.io/badge/Scenarios-7-blue?style=for-the-badge" alt="Scenarios" />
+        <img src="https://img.shields.io/badge/Badges-4-purple?style=for-the-badge" alt="Badges" />
+      </p>
+      <a href="https://github.com/devUmut35/hackviser">
+        <img src="https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Öne Çıkan Projelerim
 
 <table>
@@ -76,12 +101,13 @@
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
-     <td width="33%">
-      <h3><a href="https://github.com/devUmut35/Ozgur-Yasam">admin-finder</a></h3>
+    <td width="33%">
+      <h3><a href="https://github.com/devUmut35/admin-finder">admin-finder</a></h3>
       <p>CTF ve yetkili güvenlik testleri için hızlı admin/login path kontrol aracı.</p>
       <a href="https://github.com/devUmut35/admin-finder">
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
+    </td>
   </tr>
 </table>
 
