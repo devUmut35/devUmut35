@@ -62,21 +62,21 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3><a href="https://github.com/devUmut35/Ozgur-Yasam">Ozgur-Yasam</a></h3>
       <p>Web geliştirme tarafında öne çıkarılabilecek proje.</p>
       <a href="https://github.com/devUmut35/Ozgur-Yasam">
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3><a href="https://github.com/devUmut35/KriptoDash">KriptoDash</a></h3>
       <p>Kripto para takibi ve dashboard mantığıyla geliştirilen proje.</p>
       <a href="https://github.com/devUmut35/KriptoDash">
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
-     <td width="50%">
+     <td width="33%">
       <h3><a href="https://github.com/devUmut35/Ozgur-Yasam">admin-finder</a></h3>
       <p>CTF ve yetkili güvenlik testleri için hızlı admin/login path kontrol aracı.</p>
       <a href="https://github.com/devUmut35/admin-finder">
