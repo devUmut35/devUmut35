@@ -60,15 +60,24 @@
 
 ## Öne Çıkan Projelerim
 
-[![Ozgur-Yasam](https://github-readme-stats.vercel.app/api/pin/?username=devUmut35&repo=Ozgur-Yasam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devUmut35/Ozgur-Yasam)
-
-[![KriptoDash](https://github-readme-stats.vercel.app/api/pin/?username=devUmut35&repo=KriptoDash&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devUmut35/KriptoDash)
-
-<p align="left">
-  <a href="https://github.com/devUmut35?tab=repositories" target="_blank">
-    <img alt="Tüm Depolar" title="Tüm Depolar" src="https://img.shields.io/badge/-T%C3%BCm%20Depolar-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/devUmut35/Ozgur-Yasam">Ozgur-Yasam</a></h3>
+      <p>Web geliştirme tarafında öne çıkarılabilecek proje.</p>
+      <a href="https://github.com/devUmut35/Ozgur-Yasam">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/devUmut35/KriptoDash">KriptoDash</a></h3>
+      <p>Kripto para takibi ve dashboard mantığıyla geliştirilen proje.</p>
+      <a href="https://github.com/devUmut35/KriptoDash">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
